@@ -1,0 +1,39 @@
+# Node / JS Projects
+node_modules/
+dist/
+.env
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode
+.vscode/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Build / Output
+build/
+out/
+coverage/
+
+# OS Files
+Thumbs.db
+Desktop.ini
+
+# Mac
+*.DS_Store
+
+# Secrets / Keys
+*.pem
+*.key
+*.crt
+*.p12
+*.jks
+*.env.local
+
+# Replit-specific
+.replit
